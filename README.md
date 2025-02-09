@@ -68,16 +68,6 @@ This Power BI project provides a comprehensive dashboard to analyze the financia
 - **Power BI** for dashboard development
 - **DAX Query** for data preprocessing and KPI calculations
 
-## How to Use
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/EthenDcosta5/ITC-Hotels-Dashboard.git
-   ```
-2. **Open the Power BI File:**
-   - Navigate to the project directory and open the `.pbix` file in Power BI Desktop.
-3. **Explore the Dashboard:**
-   - The dashboard is divided into multiple pages (Financial Overview, Occupancy & Capacity, Room Performance, and Cancellations) that can be navigated through the tabs at the bottom of the Power BI window.
-
 ## Contact
 Feel free to reach out for any queries or collaboration opportunities!
 
